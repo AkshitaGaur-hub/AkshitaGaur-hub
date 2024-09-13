@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning as computer science student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my gmail gaurakshita407@gmail.com
-- 😄 Pronouns: "idempotence".
+- 😄 Pronouns: ....
 - ⚡ Fun fact: The first ever video game ever created, "Spacewar".
 
 <!---
