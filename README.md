@@ -1,3 +1,4 @@
+
 # 👋 Hey there, I'm Akshita Gaur!
 
 Open to collaborations | Exploring New Tech
@@ -37,6 +38,7 @@ Open to collaborations | Exploring New Tech
 
 ### 🌐 Connect With Me
 
- 📫 How to reach me: gaurakshita407@gmail.com
+* 📫 How to reach me: gaurakshita407@gmail.com
+* <a href="https://www.linkedin.com/in/akshita-gaur-561a7b1b0" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> 
 
-<a href="https://www.linkedin.com/in/akshita-gaur-561a7b1b0" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> 
+ * <a href="https://leetcode.com/u/akshitagaur123/" target="_blank"><img src="" alt="LeetCode" width="40" height="40"/></a>
