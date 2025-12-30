@@ -16,6 +16,8 @@ Open to collaborations | Exploring New Tech
 
 * Tailwind CSS
 * React
+* Express
+* Nodejs
 
 <p align="left">
   <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png" alt="c" width="40" height="40"/> </a>
