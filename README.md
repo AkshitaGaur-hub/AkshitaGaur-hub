@@ -17,6 +17,9 @@ Open to collaborations | Exploring New Tech
 * Tailwind CSS
 * React
 * Express
+
+**Backend Frameworks/Libraries:**
+
 * Nodejs
 
 <p align="left">
