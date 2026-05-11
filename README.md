@@ -81,7 +81,6 @@ Improving DSA & Problem Solving
 
 </div>
 
-# 🐍 Contribution Snake Animation
 
 <div align="center">
 
