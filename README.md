@@ -1,49 +1,126 @@
+<div align="center">
 
-# 👋 Hey there, I'm Akshita Gaur!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Akshita%20Gaur&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-Open to collaborations | Exploring New Tech
+# Hey There, I'm Akshita Gaur 👋
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Enthusiast;Google+Gemini+Student+Ambassador;Open+Source+Learner;Tech+Explorer+✨" />
 
-### 🚀 My Tech Stack
+<img src="https://komarev.com/ghpvc/?username=AkshitaGaur-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-**Languages:**
-
-* C | C++
-* HTML | CSS | JavaScript
-
-**Frontend Frameworks/Libraries:**
-
-* Tailwind CSS
-* React
-* Express
-
-**Backend Frameworks/Libraries:**
-
-* Nodejs
-
-<p align="left">
-  <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png" alt="c" width="40" height="40"/> </a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-us/docs/web/html" target="_blank"> <img src="https://img.icons8.com/color/48/html-5.png" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-us/docs/web/css" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png" alt="react" width="40" height="40"/> </a>
-</p>
+</div>
 
 ---
 
-### 🧠 Current Focus
+## About Me
 
-* 👀 I’m interested in coding and exploring new technologies.
-* 🌱 I’m currently learning as a computer science student.
+<img align="right" height="230" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+```yaml
+Name: Akshita Gaur
+Role: Computer Science Student
+Position: Google Gemini Student Ambassador
+Location: India
+
+Currently Learning:
+  - React.js
+  - Node.js
+  - Full Stack Development
+
+Interests:
+  - Web Development
+  - Artificial Intelligence
+  - UI/UX Design
+  - Open Source
+
+Goal:
+  - Become a skilled Full Stack Developer
+  - Build impactful projects
+  - Explore AI Technologies
+```
+
+<br><br>
 
 ---
 
-### 🌐 Connect With Me
+<div align="center">
 
-* 📫 How to reach me: gaurakshita407@gmail.com
-* <a href="https://www.linkedin.com/in/akshita-gaur-561a7b1b0" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> 
+<marquee behavior="scroll" direction="left" scrollamount="12">
 
+<img src="https://skillicons.dev/icons?i=html" height="70"/>
+<img src="https://skillicons.dev/icons?i=css" height="70"/>
+<img src="https://skillicons.dev/icons?i=js" height="70"/>
+<img src="https://skillicons.dev/icons?i=react" height="70"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
+<img src="https://skillicons.dev/icons?i=express" height="70"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="70"/>
+<img src="https://skillicons.dev/icons?i=c" height="70"/>
+<img src="https://skillicons.dev/icons?i=python" height="70"/>
+<img src="https://skillicons.dev/icons?i=java" height="70"/>
+<img src="https://skillicons.dev/icons?i=ai" height="70"/>
+<img src="https://skillicons.dev/icons?i=git" height="70"/>
+<img src="https://skillicons.dev/icons?i=github" height="70"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="70"/>
 
+</marquee>
+
+</div>
+
+---
+
+## Current Focus
+
+<div align="center">
+
+Learning Full Stack Development  
+Building Real World Projects  
+Exploring Artificial Intelligence  
+Working as Google Gemini Student Ambassador  
+Improving DSA & Problem Solving  
+
+</div>
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:gaurakshita407@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/akshita-gaur-561a7b1b0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AkshitaGaur-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Code • Learn • Build • Repeat ✨
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a"/>
+
+</div>
