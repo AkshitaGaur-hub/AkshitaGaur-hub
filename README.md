@@ -4,7 +4,7 @@
 
 # Hey There, I'm Akshita Gaur 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Enthusiast;Google+Gemini+Student+Ambassador;Open+Source+Learner;Tech+Explorer+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=FullStack+Developer;React+Enthusiast;Google+Gemini+Student+Ambassador;Open+Source+Learner;Tech+Explorer+✨" />
 
 <img src="https://komarev.com/ghpvc/?username=AkshitaGaur-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
