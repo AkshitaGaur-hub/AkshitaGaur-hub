@@ -76,7 +76,8 @@ Goal:
 Learning Full Stack Development  
 Building Real World Projects  
 Exploring Artificial Intelligence  
-Working as Google Gemini Student Ambassador  
+Working as Google Gemini Student Ambassador
+Web Development Intern in Lipi Data
 Improving DSA & Problem Solving  
 
 </div>
