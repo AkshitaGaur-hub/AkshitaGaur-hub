@@ -45,27 +45,67 @@ Goal:
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="12">
+<h3>⚡ Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=html" height="70"/>
-<img src="https://skillicons.dev/icons?i=css" height="70"/>
-<img src="https://skillicons.dev/icons?i=js" height="70"/>
-<img src="https://skillicons.dev/icons?i=react" height="70"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
-<img src="https://skillicons.dev/icons?i=express" height="70"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="70"/>
-<img src="https://skillicons.dev/icons?i=c" height="70"/>
-<img src="https://skillicons.dev/icons?i=python" height="70"/>
-<img src="https://skillicons.dev/icons?i=java" height="70"/>
-<img src="https://skillicons.dev/icons?i=ai" height="70"/>
-<img src="https://skillicons.dev/icons?i=git" height="70"/>
-<img src="https://skillicons.dev/icons?i=github" height="70"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="70"/>
+<marquee behavior="scroll" direction="left" scrollamount="8">
+
+<img src="https://skillicons.dev/icons?i=html" height="65"/>
+<img src="https://skillicons.dev/icons?i=css" height="65"/>
+<img src="https://skillicons.dev/icons?i=js" height="65"/>
+<img src="https://skillicons.dev/icons?i=react" height="65"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="65"/>
+<img src="https://skillicons.dev/icons?i=vite" height="65"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="65"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="65"/>
+<img src="https://skillicons.dev/icons?i=express" height="65"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="65"/>
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
+
+<img src="https://skillicons.dev/icons?i=cpp" height="65"/>
+<img src="https://skillicons.dev/icons?i=c" height="65"/>
+<img src="https://skillicons.dev/icons?i=java" height="65"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="65"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="65"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="65"/>
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="65"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="65"/>
 
 </marquee>
 
+<br/>
+
+<h3>🧠 Data, AI & Backend</h3>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge"/>
+</p>
+
+<h3>☁️ Cloud & Deployment</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 </div>
+
 
 ---
 
