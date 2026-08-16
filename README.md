@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Akshita%20Gaur&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# Hey There, I'm Akshita Gaur 👋
+# Hey There, I'm Akshita 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=FullStack+Developer;React+Enthusiast;Google+Gemini+Student+Ambassador;Open+Source+Learner;Tech+Explorer+✨" />
 
@@ -17,7 +17,7 @@
 <img align="right" height="230" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ```yaml
-Name: Akshita Gaur
+Name: Akshita
 Role: Computer Science Student
 Position: Google Gemini Student Ambassador
 Location: India
